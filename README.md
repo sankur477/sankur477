@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Shivdeep 
+- 👀 I’m interested in EDA tools for open source hardware design, especially analog circuit design.
+- 📫 email id: sankur477@gmail.com
